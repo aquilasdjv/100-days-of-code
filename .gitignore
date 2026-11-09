@@ -1,0 +1,95 @@
+=========================
+
+Système d'exploitation
+
+=========================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+=========================
+
+Configuration VS Code
+
+=========================
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+=========================
+
+PYTHON
+
+=========================
+
+Environnements virtuels
+
+.venv/
+venv/
+env/
+ENV/
+
+Fichiers compilés et cache
+
+pycache/
+*.py[cod]
+*$py.class
+
+Variables d'environnement locales
+
+.env
+
+=========================
+
+C# / .NET
+
+=========================
+
+Dossiers de compilation et de génération
+
+bin/
+obj/
+TestResults/
+
+Fichiers utilisateurs et cache IDE
+
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+*.suo
+
+=========================
+
+JAVA
+
+=========================
+
+Fichiers compilés
+
+*.class
+
+Dossiers de build (si tu utilises Maven ou Gradle plus tard)
+
+target/
+build/
+.gradle/
+
+Fichiers de cache/projet IDE divers (IntelliJ, Eclipse)
+
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.metadata/
